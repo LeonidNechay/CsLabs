@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Lab1_Z1\bin\Debug\Lab1_Z1.exe.config
+C:\Users\Admin\source\repos\Lab1_Z1\bin\Debug\Lab1_Z1.exe
+C:\Users\Admin\source\repos\Lab1_Z1\bin\Debug\Lab1_Z1.pdb
+C:\Users\Admin\source\repos\Lab1_Z1\obj\Debug\Lab1_Z1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab1_Z1\obj\Debug\Lab1_Z1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Lab1_Z1\obj\Debug\Lab1_Z1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab1_Z1\obj\Debug\Lab1_Z1.exe
+C:\Users\Admin\source\repos\Lab1_Z1\obj\Debug\Lab1_Z1.pdb
